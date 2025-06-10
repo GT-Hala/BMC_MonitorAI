@@ -49,8 +49,13 @@ The system combines a local knowledge base with semantic search and AI-based rea
  🛠️ Technologies Used
 
 Python: Core programming language
+
 Gradio: User interface and chatbot UI
+
 OpenAI API (SambaNova): AI-powered question answering 
+
 TF-IDF & Cosine Similarity:Smart search in local knowledge base
+
 Pytesseract & PDF2Image:Text extraction from PDF documents
+
 Plotly:Visual reporting and analytics 
