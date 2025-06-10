@@ -1,0 +1,8 @@
+gradio==5.23.1
+openai==1.61.0
+python-dotenv==1.0.1
+pytesseract==0.3.13
+pdf2image==1.17.0
+scikit-learn==1.6.1
+plotly==5.24.1
+PyPDF2==3.0.1
